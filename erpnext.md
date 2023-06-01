@@ -18,3 +18,7 @@ All these server will be managed in Kubernets
 2. The MariaDB Database Server ( Auto Scale )
 3. The Redis Server ( Caching and Message Broker ) ( Auto Scale )
 4. The Nginx Server ( For Real-Time Communication ) ( Auto Scale )
+
+
+### Cloud Storage
+The assets and file attachment will be stored using cloud storage
